@@ -1,0 +1,5 @@
+22:18:03.577 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - SAP Fiori opened
+22:18:16.074 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - CAF option selected and opened
+22:18:18.160 [main] INFO  enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Mobility product selected
+22:18:19.174 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Activation type selected
+22:18:19.533 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Location searched

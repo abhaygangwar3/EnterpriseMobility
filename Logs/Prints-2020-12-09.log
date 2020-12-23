@@ -1,0 +1,5 @@
+17:08:42.593 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Activation type selected
+17:08:42.909 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Location searched
+17:08:49.155 [main] INFO  enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Location selected
+17:08:52.566 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - CF Number entered
+17:09:10.923 [main] INFO  enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - MU44237686 entered for this order

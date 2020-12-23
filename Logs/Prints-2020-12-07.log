@@ -1,0 +1,5 @@
+21:50:14.124 [main] DEBUG enterprise.mobility.Cls_LandingPageRedirectionAndValidationTest - OIM page opened
+21:50:14.522 [main] INFO  enterprise.mobility.Cls_LandingPageRedirectionAndValidationTest - Username entered
+21:50:14.706 [main] INFO  enterprise.mobility.Cls_LandingPageRedirectionAndValidationTest - Password entered
+21:50:22.604 [main] INFO  enterprise.mobility.Cls_LandingPageRedirectionAndValidationTest - Credentials submitted
+21:50:22.631 [main] DEBUG enterprise.mobility.Cls_LandingPageRedirectionAndValidationTest - SAP Fiori opened

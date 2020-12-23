@@ -1,0 +1,5 @@
+19:55:50.292 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Location searched
+19:55:56.482 [main] INFO  enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Location selected
+19:55:59.817 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - CF Number entered
+19:56:19.225 [main] INFO  enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - MU58313606 entered for this order
+19:56:21.453 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - All relevant details entered in details tab

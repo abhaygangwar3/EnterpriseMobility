@@ -1,0 +1,5 @@
+22:30:22.073 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - OIM page opened
+22:30:22.474 [main] INFO  enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Username entered
+22:30:22.577 [main] INFO  enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Password entered
+22:30:23.636 [main] INFO  enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Credentials submitted
+22:30:23.672 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - SAP Fiori opened

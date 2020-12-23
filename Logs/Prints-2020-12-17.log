@@ -1,0 +1,5 @@
+16:21:15.317 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - CAF option selected and opened
+16:21:18.074 [main] INFO  enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Mobility product selected
+16:21:20.300 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Activation type selected
+16:21:21.417 [main] DEBUG enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Location searched
+16:21:27.587 [main] INFO  enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest - Location selected

@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 83.71 s <<< FAILURE! - in TestSuite
+enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest.CAFEntry  Time elapsed: 21.003 s  <<< FAILURE!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <tr role="row" tabindex="-1" id="idLocationablepos-nodata" class="sapMLIB sapMListTblRow sapMLIBTypeInactive sapMLIBShowSeparator">...</tr> is not clickable at point (682, 380). Other element would receive the click: <div id="sap-ui-blocklayer-popup" tabindex="0" class="sapUiBLy sapMDialogBLyInit" style="z-index: 128; visibility: visible; display: block;"></div>
+  (Session info: chrome=84.0.4147.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LT0055527', ip: '10.25.199.166', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\ABHAY~1.GAN\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:61948}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 9254a0018fba2b676080da5975c89121
+	at enterprise.mobility.Cls_OrderPlacementAtDataEntryStageTest.CAFEntry(Cls_OrderPlacementAtDataEntryStageTest.java:177)
+
